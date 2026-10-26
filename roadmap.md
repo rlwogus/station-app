@@ -1,0 +1,5 @@
+- [x] PowerGo-Oberfläche und neun Seiten mit Beispieldaten erstellen
+- [x] Navigation und mobile Darstellung prüfen
+- [x] Spätere Anbindungen im Abschluss benennen
+- [x] Berliner Beispieldaten durch Hannover ersetzen und Karte für Übersicht und Details ergänzen
+- [x] Kartenmarker, Filter und Mobilansicht prüfen
